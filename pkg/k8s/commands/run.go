@@ -26,7 +26,7 @@ const (
 
 // Run runs a k8s scan
 func Run(ctx context.Context, args []string, opts flag.Options) error {
-	cluster, err := k8s.GetCluster(opts.K8sOptions.ClusterContext)
+	cluster, err := k8s.GetCluster(opts.K8sOptions.ClusterContext, opts.K8sOptions.KubeConfig)
 	if err != nil {
 		return xerrors.Errorf("failed getting k8s cluster: %w", err)
 	}
