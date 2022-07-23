@@ -323,4 +323,4 @@ replace github.com/docker/docker => github.com/docker/docker v20.10.3-0.20220224
 replace oras.land/oras-go => oras.land/oras-go v1.1.1
 
 // TODO: once the change is merged to aquasecurity/trivy-kubernetes, this can be removed and go.sum updated
-replace github.com/aquasecurity/trivy-kubernetes => github.com/mgsh/trivy-kubernetes v0.3.1-0.20220718025033-ff49cceedf89
+replace github.com/aquasecurity/trivy-kubernetes => github.com/mgsh/trivy-kubernetes v0.3.1-0.20220723120226-103e228dadfd

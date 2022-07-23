@@ -225,8 +225,6 @@ github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516 h1:moQmzbp
 github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516/go.mod h1:gTd97VdQ0rg8Mkiic3rPgNOQdprZ7feTAhiD5mGQjgM=
 github.com/aquasecurity/trivy-db v0.0.0-20220627104749-930461748b63 h1:hgGD7zqlNe6sWJZPFFv1Z6T1EuYW8XD/hqx/dxjNp3Q=
 github.com/aquasecurity/trivy-db v0.0.0-20220627104749-930461748b63/go.mod h1:/nULgnDeq/JMPMVwE1dmf4kWlYn++7VrM3O2naj4BHA=
-github.com/aquasecurity/trivy-kubernetes v0.3.1-0.20220719205641-79488fbb4710 h1:lI/CZBmHdxLWY2QEvMHoOXmV0EOzCdtwqcx6TvOeqyU=
-github.com/aquasecurity/trivy-kubernetes v0.3.1-0.20220719205641-79488fbb4710/go.mod h1:ZHtpUrBrJ6gZ8Gd4IaXbZwTNOg5KW2m7ClC33qnSlY8=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da/go.mod h1:Q73ZrmVTwzkszR9V5SSuryQ31EELlFMUz1kKyl939pY=
@@ -1089,8 +1087,8 @@ github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5
 github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 h1:I0XW9+e1XWDxdcEniV4rQAIOPUGDq67JSCiRCgGCZLI=
 github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369/go.mod h1:BSXmuO+STAnVfrANrmjBb36TMTDstsz7MSK+HVaYKv4=
 github.com/maxbrunsfeld/counterfeiter/v6 v6.2.2/go.mod h1:eD9eIE7cdwcMi9rYluz88Jz2VyhSmden33/aXg4oVIY=
-github.com/mgsh/trivy-kubernetes v0.3.1-0.20220718025033-ff49cceedf89 h1:9+SRNoBsegRxJmjkFVrabS+mmZtiDcQbafCLzPYEjMw=
-github.com/mgsh/trivy-kubernetes v0.3.1-0.20220718025033-ff49cceedf89/go.mod h1:ertpdUZT16IEHPiG+obj8dxy8gZstsFCsvCQXqVBkBg=
+github.com/mgsh/trivy-kubernetes v0.3.1-0.20220723120226-103e228dadfd h1:SwMFU2YXmZI/sp7bOG5qjkFLOatDGlPr7e4SMgbyPdI=
+github.com/mgsh/trivy-kubernetes v0.3.1-0.20220723120226-103e228dadfd/go.mod h1:ZHtpUrBrJ6gZ8Gd4IaXbZwTNOg5KW2m7ClC33qnSlY8=
 github.com/miekg/dns v1.0.14/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 github.com/miekg/dns v1.1.25/go.mod h1:bPDLeHnStXmXAq1m/Ch/hvfNHr14JKNPMBo3VZKjuso=
 github.com/miekg/dns v1.1.43 h1:JKfpVSCB84vrAmHzyrsxB5NAr5kLoMXZArPSw7Qlgyg=
